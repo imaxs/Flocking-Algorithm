@@ -21,5 +21,5 @@
 </tbody>
 </table>
 
-The above illustration shows flocks of boids approaching an obstacles, splitting to avoid them (in red), and then regrouping.
+The above illustrations shows flocks of boids approaching obstacles, splitting to avoid them (in red), and then regrouping.
 The data of obstacles are obtained from the image data. Gizmos are used for drawing red cube wires in the Scene view to visualize obstacles.
