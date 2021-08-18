@@ -9,6 +9,11 @@
 </td>
 <td>
 
+![alt text](https://github.com/imaxs/Flocking-Algorithm/blob/main/Assets/Images/2.gif)
+
+</td>
+<td>
+
 ![alt text](https://github.com/imaxs/Flocking-Algorithm/blob/main/Assets/Images/Map.png)
 
 </td>
